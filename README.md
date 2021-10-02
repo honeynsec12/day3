@@ -1,24 +1,24 @@
-🌟##Introduction
+## Introduction 🚀
 
 
-I am honey and I am from IT Department first year
+Hi 👋 I am honey and I am from NSEC, IT Department, first year
 
 
 
-💠## Basic Details
+## 💠Basic Details
 
-**Name**- *honey*
+**Name**- *Honey*
 
 **City**- *Kolkata*
 <img src="https://img.icons8.com/bubbles/50/000000/kolkata.png"/>
 
-💠## College Details
+## 💠College Details
 
 **College Name** -*Netaji Subhash Engineering College*
 
 **College City**- *Garia,Kolkata*
 
-⭐## Here is my skills
+## 💠My skills 
 
 | S.No | Skills 
 |---|---|
@@ -26,18 +26,19 @@ I am honey and I am from IT Department first year
 |2.| Java|
 |3.| Javascript|
 |4.| C|
-|5.| Html,Css|
+|5.| Html|
+|6.| CSS|
 
-⭐## Courses
+## 💠Courses
 1. Coursera
 2. Udemy
 3. Unacademy
 
-⭐## Language
+## 💠Language
 - Hindi
 - Bengali
 - English
 
-🌟## Here is the link for my linkedin
+## 💠Linkedin profile <img src="https://img.icons8.com/external-justicon-flat-justicon/30/000000/external-linkedin-social-media-justicon-flat-justicon.png"/>
 [Click on this](https://www.linkedin.com/in/honey-labh-081097222/)
 
