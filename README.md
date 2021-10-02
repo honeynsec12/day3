@@ -1,11 +1,11 @@
-🌟#introduction
+🌟# introduction
+
+
 I am honey and I am from IT Department first year
 
 
 
-
-
-💠##Basic Details
+💠## Basic Details
 
 **Name**- *honey*
 
@@ -13,10 +13,13 @@ I am honey and I am from IT Department first year
 <img src="https://img.icons8.com/bubbles/50/000000/kolkata.png"/>
 
 💠## College Details
-**College Name** *Netaji Subhash Engineering College*
 
-**College City**  *Garia ,KOLKATA*
+**College Name** -*Netaji Subhash Engineering College*
+
+**College City**- *Garia,Kolkata*
+
 ⭐## Here is my skills
+
 | S.No | Skills 
 |---|---|
 |1.| React|
